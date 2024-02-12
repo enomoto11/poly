@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  },
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "ts",
+  "scripts": {
+    "dev": "./node_modules/.bin/ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
